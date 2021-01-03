@@ -10,7 +10,7 @@ D3 stands for Data-Driven Documents. It is an open-source JavaScript library dev
 The examples are originally from the Youtube tutorial - [Data Visualization with D3.js - Full Tutorial Course](https://youtu.be/_8V5o2UHG0E) created by Curran Kelleher.  
 I basically copied some of the examples while following the tutorial, modified them a bit (e.g. adding interactivity) then compiled them into a single-page web application.
 
-Here's the [Live Demo on Glitch](https://cuinjune-d3js-examples.glitch.me/).
+Here's the [Live Demo on Glitch](https://cuinjune-d3js-examples.glitch.me/). (Works in both desktop and mobile browsers)
 
 I created this app mainly for my own learning purpose but I think someone might find it useful to learn the basics of D3.js.
 If you are interested in learning D3.js, I highly recommend the above mentioned Youtube tutorial since it covers not only how to use D3.js but also the concepts and techniques of data visualization in general.
