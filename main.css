@@ -1,0 +1,101 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 1em;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.box-shadow {
+    -webkit-box-shadow: 2px 3px 8px rgb(175, 175, 175);
+    -moz-box-shadow: 2px 3px 8px  rgb(175, 175, 175);
+    box-shadow: 2px 3px 8px  rgb(175, 175, 175);
+}
+
+#title-container {
+    margin: 1% 1% 1% 1%;
+    width: 95%;
+    height: 10%;
+    line-height: 85px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#examples-container {
+    margin: 1% 1% 1% 1%;
+    width: 98%;
+    height: 98%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.example-container {
+    margin: 1% 1% 1% 1%;
+    width: 48%;
+    height: 48%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.example-title {
+    margin: 1% 1% 1% 1%;
+    width: 98%;
+    height: 13%;
+    font-size: 2.5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.example {
+    margin: 0% 1% 1% 1%;
+    width: 98%;
+    height: 83%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#space {
+    width: 100%;
+    height: 1%;
+}
+  
+#toolTip {
+    position: absolute;
+    display: none;
+    min-width: 80px;
+    height: auto;
+    background: none repeat scroll 0 0 #ffffff;
+    border: 1px solid #635F5D;
+    padding: 4px;
+    text-align: center;
+  }
+
+  .sphere {
+    fill: #4242e4;
+  }
