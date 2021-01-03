@@ -7,7 +7,7 @@ This project is a web application that shows some simple [D3.js](https://d3js.or
 
 D3 stands for Data-Driven Documents. It is an open-source JavaScript library developed by Mike Bostock to create custom interactive data visualizations in the web browser using SVG, HTML and CSS.
 
-The examples are originally from the Youtube tutorial [Data Visualization with D3.js - Full Tutorial Course](https://youtu.be/_8V5o2UHG0E) created by Curran Kelleher.  
+The examples are originally from the Youtube tutorial - [Data Visualization with D3.js - Full Tutorial Course](https://youtu.be/_8V5o2UHG0E) created by Curran Kelleher.  
 I basically copied some of the examples while following the tutorial, modified them a bit (e.g. adding interactivity) then compiled them into a single-page web application.
 
 Here's the [Live Demo on Glitch](https://cuinjune-d3js-examples.glitch.me/).
